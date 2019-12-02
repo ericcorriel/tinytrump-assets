@@ -1,15 +1,14 @@
 # tiny trump
-Welcome to tiny trump's github page! If you're unsure what to do, just find the green button 👆 that says "Clone or download" and choose "Download Zip." Feel free to use these assets in any way you like.
-
-> tiny trump is a crowdsourced art installation by [Eric Corriel](http://www.ericcorriel.com) that harness the energy and will of the public to inject resistance totems into the NYC landscape and beyond. 
-
-[maketrumptiny.com](https://maketrumptiny.com) for more info.
+Welcome to tiny trump's github page! If you're unsure what to do, just find the green button 👆 that says "Clone or download" and choose "Download Zip." Feel free to use these assets in any way you like. [maketrumptiny.com](https://maketrumptiny.com) for more info.
 
 
 ![12 tiny trumps lined up in a row](https://maketrumptiny.com/assets/images/buymake/tiny-trump-line-up.jpg)
 
 ---
+
 While the majority of Americans disapprove of the authoritarian and divisive tone emanating from the White House they feel powerless to stop it and, as a result, remain largely inactive. This project’s primary goal is to transform this wide-ranging demographic into activists, one tiny act of resistance at a time, and in so doing, help participants regain a sense of power and control over a situation in which they feel as though they have neither.
+
+> tiny trump is a crowdsourced art installation by [Eric Corriel](http://www.ericcorriel.com) that harness the energy and will of the public to inject resistance totems into the NYC landscape and beyond. 
 
 # Artist Statement
 *written January 2018*
