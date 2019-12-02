@@ -7,8 +7,11 @@ Welcome to tiny trump's github page! If you're unsure what to do, just find the 
 
 Feel free to use these assets in any way you like.
 
-![alt-text](https://tinytrumpproject.com/assets/images/img-1823.jpg "tiny trump in city landscape with 'Big Bullies Are Small People' on the torso")
+![alt-text](https://maketrumptiny.com/assets/images/buymake/tiny-trump-line-up.jpg "12 tiny trumps lined up in a row")
 
+>tiny trump is a crowdsourced art installation that harness the energy and will of the public to inject resistance totems into towns and cities in the US and beyond
+
+While the majority of Americans disapprove of the authoritarian and divisive tone emanating from the White House they feel powerless to stop it and, as a result, remain largely inactive. This project’s primary goal is to transform this wide-ranging demographic into activists, one tiny act of resistance at a time, and in so doing, help participants regain a sense of power and control over a situation in which they feel as though they have neither.
 
 # Artist Statement
 *written January 2018*
@@ -29,6 +32,6 @@ And when he insults a Muslim gold star family, calls Mexicans “drug dealers, c
 
 In short, I do not see a big man when I look at donald trump. Quite the opposite. I see a small-minded and petty man. So small. I see tiny trump. And I am not alone.
 
-tiny trump gives those who see through trump’s bluster a means to exert themselves in a publicly visible and meaningful way.
+tiny trump gives those who see trump as small a means to exert ourselves in a publicly visible and meaningful way.
 
 ~Eric Corriel
